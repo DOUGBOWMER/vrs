@@ -9,7 +9,7 @@ import ScrollIcon from "./ScrollIcon";
 import "tachyons/css/tachyons.min.css";
 import "smooth-scrollbar/dist/smooth-scrollbar.css";
 
-export default function Layout({ children, title = "VRS" }) {
+export default function Layout({ children, title = "WorldSpace" }) {
   const router = useRouter();
 
   return (

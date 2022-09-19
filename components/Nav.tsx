@@ -57,11 +57,11 @@ export default function Nav() {
   return (
     <div className={`fixed w-100 ph3 pv3 pv3-ns ph3-m ph4-l fixed z-9999`}>
       <header>
-        <nav className="f6 fw6 ttu tracked dt-l w-100 mw8 center">
-          <div className="w-100 w-10-l dtc-l tc tl-l v-mid">
+        <nav className="f6 fw6 ttu tracked dt-l w-200 mw8 center">
+          <div className="w-200 w-20-l dtc-l tc tl-l v-mid">
             <Link href="/">
               <a className="link dim white dib mr3" title="Home">
-                V R S
+           WorldSpace
               </a>
             </Link>
           </div>
@@ -72,7 +72,7 @@ export default function Nav() {
                   }`}
                 title="Store"
               >
-                Store
+                Marketplace
               </a>
             </Link>
             <Link href="/about">
@@ -86,11 +86,11 @@ export default function Nav() {
             </Link>
             <a
               className="link dim white dib mr3 v-mid"
-              href="https://github.com/vercel/vrs"
+              href="https://worldspace.cloud"
               target="_blank"
-              title="GitHub"
+              title="worldspace"
             >
-              GitHub
+              WorldSpace Live
             </a>
             <a
               className="link dim white dib mr3 v-mid"

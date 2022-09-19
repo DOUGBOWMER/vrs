@@ -55,19 +55,19 @@ class Slider extends Component<{}, {
                     defaultStyle={{ y: -50, o: 0 }}
                     style={{ y: spring(0), o: spring(1) }}
                   >
-                    {style => (
+                    {(style) => (
                       <h2
                         className="f1 fw6 tc ttu f-subheadline-l mt0 mb3"
                         style={{
                           transform: `translateY(${style.y}px)`,
-                          opacity: style.o
+                          opacity: style.o,
                         }}
                       >
-                        V R S
+                     WorldSpace
                       </h2>
                     )}
                   </Motion>
-                  <p className="i f5 tracked-mega-l">virtual reality store</p>
+                  <p className="i f5 tracked-mega-l">NFT Revolution</p>
                   <div className="ttu mt3 f4">
                     <Link href="/store">
                       <a className="dib ph2 pv1 fw6 white tracked-mega no-underline">
@@ -88,20 +88,20 @@ class Slider extends Component<{}, {
                       defaultStyle={{ y: height * 0.3 }}
                       style={{ y: spring(height * 0.3 - offset * 0.3) }}
                     >
-                      {style => (
+                      {(style) => (
                         <h2
                           className="f1 f2-m fw6 tc-l tc ttu"
                           style={{
-                            transform: `translateY(${style.y}px)`
+                            transform: `translateY(${style.y}px)`,
                           }}
                         >
-                          Online 3D modeling
+                          Onboarding the MetaVerse
                         </h2>
                       )}
                     </Motion>
                   ) : (
                     <h2 className="f1 f2-m fw6 tc-l tc ttu">
-                      Online 3D modeling
+                      Exclusive 3d NFTs
                     </h2>
                   )}
                 </div>
@@ -160,14 +160,14 @@ class Slider extends Component<{}, {
                       defaultStyle={{ y: height * 0.8 }}
                       style={{ y: spring(height * 0.8 - offset * 0.4) }}
                     >
-                      {style => (
+                      {(style) => (
                         <h2
                           className="f1 f2-m fw6 tc ttu"
                           style={{
-                            transform: `translateY(${style.y}px)`
+                            transform: `translateY(${style.y}px)`,
                           }}
                         >
-                          Customize your model
+                          Customize Your NFTs
                         </h2>
                       )}
                     </Motion>
@@ -190,14 +190,14 @@ class Slider extends Component<{}, {
                       defaultStyle={{ y: height }}
                       style={{ y: spring(height - offset * 0.33) }}
                     >
-                      {style => (
+                      {(style) => (
                         <h2
                           className="f1 f2-m fw6 tl-l tc ttu"
                           style={{
-                            transform: `translateY(${style.y}px)`
+                            transform: `translateY(${style.y}px)`,
                           }}
                         >
-                          Design for virtual reality
+                          MultiPlatform
                         </h2>
                       )}
                     </Motion>
