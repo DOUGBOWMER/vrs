@@ -5,7 +5,7 @@ import { fetchData } from "../../utils/fetchData";
 
 function Model({ details }) {
   return (
-    <Layout>
+    <Layout children={undefined}>
       <Editor details={details} />;
     </Layout>
   );

@@ -63,11 +63,11 @@ class Slider extends Component<{}, {
                           opacity: style.o
                         }}
                       >
-                        V R S
+                        WorldSpace Inc
                       </h2>
                     )}
                   </Motion>
-                  <p className="i f5 tracked-mega-l">virtual reality store</p>
+                  <p className="i f5 tracked-mega-l">NFT Revolution</p>
                   <div className="ttu mt3 f4">
                     <Link href="/store">
                       <a className="dib ph2 pv1 fw6 white tracked-mega no-underline">
