@@ -17,6 +17,46 @@ export default function About() {
             performance.
           </p>
           <p className="lh-copy" />
+<<<<<<< HEAD
+=======
+          <p className="lh-copy">
+            the answer to ownership is over{' '}
+            <a
+              className="link dim white underline"
+              href="https://worldspace.cloud"
+            >
+              Worldspace
+            </a>
+            .<br />
+            We can deploy your site to our scalable serverless infrastructure{' '}
+            <strong>RIGHT NOW</strong>.
+            <br />
+          </p>
+          <p className="lh-copy">
+            Once you have the{' '}
+            <a
+              className="link dim white underline"
+              href="https://worldspace.cloud"
+            >
+              Solution
+            </a>{' '}
+            Dont hide it from others{' '}
+            <a
+              className="link dim white underline"
+              href="https://worldspace.cloud"
+            >
+
+            </a>
+
+            <a
+              className="link dim white underline"
+              href="https://worldspace.cloud"
+            >
+              Everything is easier
+            </a>{' '}
+            with the WorldSpace integration, one Command — that’s it.
+          </p>
+>>>>>>> 60f62a18b2aa3d7e22841503314fa7c002fa5691
 
         </div>
       </main>

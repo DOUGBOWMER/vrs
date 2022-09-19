@@ -61,7 +61,11 @@ export default function Nav() {
           <div className="w-200 w-20-l dtc-l tc tl-l v-mid">
             <Link href="/">
               <a className="link dim white dib mr3" title="Home">
+<<<<<<< HEAD
            WorldSpace
+=======
+               WorldSpace
+>>>>>>> 60f62a18b2aa3d7e22841503314fa7c002fa5691
               </a>
             </Link>
           </div>
@@ -88,9 +92,15 @@ export default function Nav() {
               className="link dim white dib mr3 v-mid"
               href="https://worldspace.cloud"
               target="_blank"
+<<<<<<< HEAD
               title="worldspace"
             >
               WorldSpace Live
+=======
+              title="Live"
+            >
+              Live
+>>>>>>> 60f62a18b2aa3d7e22841503314fa7c002fa5691
             </a>
             <a
               className="link dim white dib mr3 v-mid"

@@ -7,7 +7,7 @@ export default async function handler(req, res) {
     const { status } = await stripe.charges.create({
       amount: parseInt(amount),
       currency: "usd",
-      description: "VRS",
+      description: "Worldspace",
       source: token
     });
 
