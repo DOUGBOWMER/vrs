@@ -6,7 +6,7 @@ class VRSDoc extends Document {
       <Html lang="en">
         <Head>
           <meta charSet="utf-8" />
-          <meta name="description" content="VRS is a fully-functional e-commerce store, built on the serverless paradigm" />
+          <meta name="description" content="NFT Metaverse dedicated to preserving Arts, Culture and Education" />
           <link
             href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
             rel="stylesheet"

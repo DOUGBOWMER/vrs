@@ -7,63 +7,54 @@ export default function About() {
       <main className="pv3 pv5-ns vh-100 white dt mw8 center">
         <div className="items-center">
           <p className="lh-copy">
-            VRS is a fully-functional e-commerce store, built on the serverless
+            WorldSpace is a fully-functional e-commerce store, built on the serverless
             paradigm.
             <br />
             <br />
-            With a single command `npx vercel`, the store deploys instantly,
+            With a single command, the store deploys instantly,
             scales automatically, and requires zero supervision. The underlying
             infrastructure can handle peak time traffic with consistent fast
             performance.
           </p>
           <p className="lh-copy" />
           <p className="lh-copy">
-            The source-code for VRS is open-sourced on{' '}
+            the answer to ownership is over{' '}
             <a
               className="link dim white underline"
-              href="https://github.com/vercel/vrs"
+              href="https://worldspace.cloud"
             >
-              GitHub
+              Worldspace
             </a>
             .<br />
-            You can deploy VRS to Vercel's scalable serverless infrastructure{' '}
-            <strong>for free</strong>.
+            We can deploy your site to our scalable serverless infrastructure{' '}
+            <strong>RIGHT NOW</strong>.
             <br />
           </p>
           <p className="lh-copy">
             Once you have the{' '}
             <a
               className="link dim white underline"
-              href="https://vercel.com/cli"
+              href="https://worldspace.cloud"
             >
-              Vercel CLI
+              Solution
             </a>{' '}
-            installed, clone the{' '}
+            Dont hide it from others{' '}
             <a
               className="link dim white underline"
-              href="https://github.com/vercel/vrs"
+              href="https://worldspace.cloud"
             >
-              VRS repo
+
             </a>
-            , add the necessary{' '}
+
             <a
               className="link dim white underline"
-              href="https://vercel.com/docs/concepts/projects/environment-variables"
+              href="https://worldspace.cloud"
             >
-              environment variables
+              Everything is easier
             </a>{' '}
-            with the Vercel CLI, and run `npx vercel` — that’s it.
+            with the WorldSpace integration, one Command — that’s it.
           </p>
-          <p className="lh-copy">
-            The 3D models used are freely licensed through{' '}
-            <a
-              className="link white underline dim"
-              href="https://clara.io/legal/content-guidelines"
-            >
-              Clara
-            </a>
-            .
-          </p>
+
         </div>
       </main>
       <Footer />
