@@ -63,11 +63,11 @@ class Slider extends Component<{}, {
                           opacity: style.o,
                         }}
                       >
-<<<<<<< HEAD
+
                      WorldSpace
-=======
-                        WorldSpace Inc
->>>>>>> 60f62a18b2aa3d7e22841503314fa7c002fa5691
+
+
+
                       </h2>
                     )}
                   </Motion>

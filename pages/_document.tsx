@@ -6,11 +6,11 @@ class VRSDoc extends Document {
       <Html lang="en">
         <Head>
           <meta charSet="utf-8" />
-<<<<<<< HEAD
+
           <meta name="description" content="A NFT Platform" />
-=======
+
           <meta name="description" content="NFT Metaverse dedicated to preserving Arts, Culture and Education" />
->>>>>>> 60f62a18b2aa3d7e22841503314fa7c002fa5691
+
           <link
             href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
             rel="stylesheet"
