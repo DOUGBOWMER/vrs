@@ -1,0 +1,39 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.31.1",
+    "@react-three/fiber": "^8.7.4",
+    "@stripe/react-stripe-js": "^1.7.0",
+    "@stripe/stripe-js": "^1.23.0",
+    "@thirdweb-dev/sdk": "^3.0.2",
+    "@thirdweb-dev/storage": "^0.2.8",
+    "airtable": "^0.11.2",
+    "ethers": "^5",
+    "lodash": "^4.17.21",
+    "material-icons": "^1.10.7",
+    "next": "^12.1.0",
+    "next-auth": "^4.3.2",
+    "nprogress": "^0.2.0",
+    "polyfills": "^2.1.1",
+    "react": "^17.0.2",
+    "react-click-outside": "tj/react-click-outside",
+    "react-color": "^2.12.0",
+    "react-dom": "^17.0.2",
+    "react-motion": "^0.5.0",
+    "react-smooth-scrollbar": "7.2.2",
+    "stripe": "^8.205.0",
+    "switch": "^0.0.0",
+    "tachyons": "^4.7.1",
+    "three": "^0.144.0",
+    "tween.js": "^16.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "sharp": "^0.30.5",
+    "typescript": "^4.6.2"
+  }
+}
